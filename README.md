@@ -13,5 +13,7 @@ Yolo code terminal command (old)
 Yolo code terminal command (new)
 `$ python3 yolo_image.py --image Images/<file_name>.jpg`
 
+## Haar Cascade
+
 Haar Cascade code terminal command
 `$ python3 hc_image.py --image Images/<file_name>.jpg`
