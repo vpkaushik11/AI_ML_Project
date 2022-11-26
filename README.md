@@ -7,5 +7,11 @@ Download the pre-trained YOLO v3 weights file from this [link](https://pjreddie.
  
  `$ wget https://pjreddie.com/media/files/yolov3.weights`
 
-Yolo code terminal command
+Yolo code terminal command (old)
 `$ python3 yolo_image.py --image Images/<file_name>.jpg --config Yolo/yolov3.cfg --weights Yolo/yolov3.weights --classes Yolo/yolov3.txt`
+
+Yolo code terminal command (new)
+`$ python3 yolo_image.py --image Images/<file_name>.jpg`
+
+Haar Cascade code terminal command
+`$ python3 hc_image.py --image Images/<file_name>.jpg`
