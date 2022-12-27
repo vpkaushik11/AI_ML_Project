@@ -1,5 +1,4 @@
-# effective-octo-guacamole
-AI ML project - Assisted Navigation for the Visually Impaired using Object recognition
+# AI ML project - Assisted Navigation for the Visually Impaired using Object recognition
 
 ## YOLO (You Only Look Once)
  
